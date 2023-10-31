@@ -7,6 +7,7 @@ A simple API built with Node.js, Express, and MongoDB to manage Books. This API 
 1. Clone the repository: https://github.com/mauryarajeev/Book-Mangment-API.git
 2. Install the dependencies: npm install
 3.  Run the development server: npm start
+4.  Api testing ScreenShot avilable in api test screenshot folder
       
 ## API Endpoints
 
